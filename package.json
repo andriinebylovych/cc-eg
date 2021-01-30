@@ -2,6 +2,11 @@
   "name": "@sailove/cc-eg",
   "version": "0.0.1",
   "description": "Cli to list examples of conventional commits",
+  "bin": {
+    "cc-eg-help": "bin/help.js",
+    "cc-eg-type": "bin/type.js",
+    "cc-eg-sample": "bin/sample.js"
+  },
   "keywords": [
     "conventional",
     "commits",
