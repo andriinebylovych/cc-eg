@@ -1,0 +1,12 @@
+{
+  "name": "@sailove/cc-eg",
+  "version": "0.0.1",
+  "description": "Cli to list examples of conventional commits",
+  "keywords": [
+    "conventional",
+    "commits",
+    "cli"
+  ],
+  "author": "Andrii Nebylovych",
+  "license": "ISC"
+}
