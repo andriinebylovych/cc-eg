@@ -9,7 +9,7 @@ Command line tool simplified taken from: [Building a simple command line tool wi
 
 # Run the example
 
-1. Install globally `npm i @sailove/cc-eg`
+1. Install globally `npm i @andriinebylovych/cc-eg`
 2. Run one of commands:
 
 - `cc-eg-help`
